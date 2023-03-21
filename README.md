@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya123ch&label=Profile%20views&color=0e75b6&style=flat" alt="ameya123ch" /> </p>
 
-- 🔭 I’m currently working on **Hateful and Offensive Language Detector**
+- 🔭 I’m currently working on **Hateful and Offensive Language Detector Project**
 
 - 👨‍💻 All of my projects are available at [https://datascience-portfolio34.netlify.app/](https://datascience-portfolio34.netlify.app/)
 
