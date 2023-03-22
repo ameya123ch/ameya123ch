@@ -1,10 +1,10 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)]
+![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)
 <h1 align="center">Hi 👋, I'm Ameya Chaudhari</h1>
 <h3 align="center">Meticulous Data Scientist with 1+ years of experience in building predictive models that translate data points into key insights. Expert in machine learning and deep learning techniques and demonstrated success in identifying relationships and building AI solutions to automate business manual tasks.</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya123ch&label=Profile%20views&color=0e75b6&style=flat" alt="ameya123ch" /> </p>
 
-- 🔭 I’m currently working on **Hateful and Offensive Language Detector Project**
+- 🔭 I’m currently working on **Real-time Data Science Project**
 
 - 👨‍💻 All of my projects are available at [https://datascience-portfolio34.netlify.app/](https://datascience-portfolio34.netlify.app/)
 
