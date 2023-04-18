@@ -1,7 +1,7 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)
 <h1 align="center">Hi 👋, I'm Ameya Chaudhari</h1>
 <h3 align="center">As a data scientist, my passion lies in leveraging data to drive meaningful insights and improve decision-making processes. With experience in statistical analysis, machine learning, and data visualization, I have the ability to work with large, complex datasets and develop models that can provide actionable recommendations.
-My proficiency in programming languages such as Python and SQL has allowed me to manipulate and extract value from data, while my expertise in tools such as Pandas, NumPy, and Scikit-Learn has enabled me to develop predictive models and conduct exploratory data analysis.
+My proficiency in programming languages such as Python and SQL has allowed me to manipulate and extract value from data, while my expertise in tools such as Pandas, NumPy,Tensorflow, and Scikit-Learn has enabled me to develop predictive models and conduct exploratory data analysis.
 In addition to my technical skills, I possess strong communication and collaboration abilities that have allowed me to effectively collaborate with cross-functional teams and communicate technical concepts to stakeholders at all levels.</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya123ch&label=Profile%20views&color=0e75b6&style=flat" alt="ameya123ch" /> </p>
